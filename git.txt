@@ -9,8 +9,8 @@
 # Shreya
 
 # Sql batch  
-<<<<<<< HEAD
+
 # new batch 
 =======
 # new batch
->>>>>>> 04dafab264ff92e72b694e34346a85f4ed8be622
+04dafab264ff92e72b694e34346a85f4ed8be622
